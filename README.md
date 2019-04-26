@@ -145,6 +145,7 @@ to the VM args property in the default run configuration for JUnit in IntelliJ.
 
 Solutions are available [here](https://github.com/corda/corda-training-solutions).
 
+# Links
 * https://docs.corda.net/key-concepts.html
 * https://github.com/corda
 * https://docs.corda.net/quickstarts-index.html
