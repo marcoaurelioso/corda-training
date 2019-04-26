@@ -144,3 +144,14 @@ When running the flow tests, if you get a Quasar instrumention error then add:
 to the VM args property in the default run configuration for JUnit in IntelliJ.
 
 Solutions are available [here](https://github.com/corda/corda-training-solutions).
+
+https://docs.corda.net/key-concepts.html
+https://github.com/corda
+https://docs.corda.net/quickstarts-index.html
+https://docs.corda.net/tutorial-cordapp.html
+https://www.corda.net/content/corda-platform-whitepaper.pdf
+https://medium.com/corda
+https://101blockchains.com/pt/hyperledger-vs-ethereum-vs-corda-r3/
+https://medium.com/@cristinehoffsutil/uma-s%C3%ADntese-sobre-r3-corda-780849fa3cf1
+https://blockchain10.org/corda/
+https://www.linkedin.com/pulse/preparing-r3-corda-developer-certification-raja-lingaswaran
